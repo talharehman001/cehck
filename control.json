@@ -1,7 +1,5 @@
 {
   "allow": true,
-  "expiry": "2026-02-01",
-  "devices": [
-    "0x1a2b3c4d5e6f"
+  "expiry": "2026-02-03",
   ]
 }
